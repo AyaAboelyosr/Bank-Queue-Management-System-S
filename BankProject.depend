@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1708628948 source:e:\iti matrial\ds\bankproject\bankproject\main.cpp
+	"Bank.h"
+	<iostream>
+	<fstream>
+
+1708628948 e:\iti matrial\ds\bankproject\bankproject\include\bank.h
+	<queue>
+	<vector>
+	<climits>
+	"Teller.h"
+	"Customer.h"
+	"CompareCustomer.h"
+	<iostream>
+
+1708628948 e:\iti matrial\ds\bankproject\bankproject\include\teller.h
+	"Customer.h"
+	<iostream>
+
+1708296416 e:\iti matrial\ds\bankproject\bankproject\include\customer.h
+
+1708628948 e:\iti matrial\ds\bankproject\bankproject\include\comparecustomer.h
+
